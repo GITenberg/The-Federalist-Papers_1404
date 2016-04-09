@@ -1,0 +1,108 @@
+_repo: The-Federalist-Papers_1404
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jay, John
+    alias: Jay, J. (John)
+    birthdate: 1745
+    deathdate: 1829
+    gutenberg_agent_id: '15'
+    url: http://www.gutenberg.org/2009/agents/15
+    wikipedia: http://en.wikipedia.org/wiki/John_Jay
+  - agent_name: Hamilton, Alexander
+    birthdate: 1757
+    deathdate: 1804
+    gutenberg_agent_id: '13'
+    url: http://www.gutenberg.org/2009/agents/13
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Hamilton
+  - agent_name: Madison, James
+    alias: United States President (1809-1817)
+    birthdate: 1751
+    deathdate: 1836
+    gutenberg_agent_id: '14'
+    url: http://www.gutenberg.org/2009/agents/14
+    wikipedia: http://en.wikipedia.org/wiki/James_Madison
+description: "The Federalist (later known as The Federalist Papers) is a collection\
+  \ of 85 articles and essays written (under the pseudonym Publius) by Alexander Hamilton,\
+  \ James Madison, and John Jay promoting the ratification of the United States Constitution.\
+  \ Seventy-seven were published serially in The Independent Journal and The New York\
+  \ Packet between October 1787 and August 1788. A compilation of these and eight\
+  \ others, called The Federalist; or, The New Constitution, was published in two\
+  \ volumes in 1788 by J. and A. McLean. The collection's original title was The Federalist;\
+  \ the title The Federalist Papers did not emerge until the 20th century.\nThough\
+  \ the authors of The Federalist Papers foremost wished to influence the vote in\
+  \ favor of ratifying the Constitution, in Federalist No. 1 they explicitly set that\
+  \ debate in broader political terms:\n\nIt has been frequently remarked, that it\
+  \ seems to have been reserved to the people of this country, by their conduct and\
+  \ example, to decide the important question, whether societies of men are really\
+  \ capable or not, of establishing good government from reflection and choice, or\
+  \ whether they are forever destined to depend, for their political constitutions,\
+  \ on accident and force.\n\nHighlights abound in the essays of The Federalist. Federalist\
+  \ No. 10, in which Madison discusses the means of preventing rule by majority faction\
+  \ and advocates a large, commercial republic, is generally regarded as the most\
+  \ important of the 85 articles from a philosophical perspective; it is complemented\
+  \ by Federalist No. 14, in which Madison takes the measure of the United States,\
+  \ declares it appropriate for an extended republic, and concludes with a memorable\
+  \ defense of the constitutional and political creativity of the Federal Convention.\
+  \ In Federalist No. 84, Hamilton makes the case that there is no need to amend the\
+  \ Constitution by adding a Bill of Rights, insisting that the various provisions\
+  \ in the proposed Constitution protecting liberty amount to a \"bill of rights\"\
+  . Federalist No. 78, also written by Hamilton, lays the groundwork for the doctrine\
+  \ of judicial review by federal courts of federal legislation or executive acts.\
+  \ Federalist No. 70 presents Hamilton's case for a one-man chief executive. In Federalist\
+  \ No. 39, Madison presents the clearest exposition of what has come to be called\
+  \ \"Federalism\". In Federalist No. 51, Madison distills arguments for checks and\
+  \ balances in an essay often quoted for its justification of government as \"the\
+  \ greatest of all reflections on human nature.\"\nAccording to historian Richard\
+  \ B. Morris, they are an \"incomparable exposition of the Constitution, a classic\
+  \ in political science unsurpassed in both breadth and depth by the product of any\
+  \ later American writer.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- United States
+- United States Law
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1404'
+  wikidata: Q858036
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcc 'KF'
+- !lcsh 'Constitutional law -- United States'
+- !lcsh 'Constitutional history -- United States -- Sources'
+- GITenberg
+title: The Federalist Papers
+url: http://www.gutenberg.org/ebooks/1404
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D9%84%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%81%D8%AF%D8%B1%D8%A7%D9%84%DB%8C%D8%B3%D8%AA
+- https://en.wikisource.org/wiki/The_Federalist
+- https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%95%E3%82%A7%E3%83%87%E3%83%A9%E3%83%AA%E3%82%B9%E3%83%88
+- https://pt.wikipedia.org/wiki/O_Federalista
+- https://es.wikipedia.org/wiki/The_Federalists_Papers
+- https://sk.wikipedia.org/wiki/Listy_federalistov
+- https://en.wikipedia.org/wiki/The_Federalist_Papers
+- https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82
+- https://ko.wikipedia.org/wiki/%EC%97%B0%EB%B0%A9%EC%A3%BC%EC%9D%98%EC%9E%90_%EB%85%BC%EC%A7%91
+- https://fr.wikipedia.org/wiki/Le_F%C3%A9d%C3%A9raliste
+- https://zh.wikipedia.org/wiki/%E8%81%94%E9%82%A6%E5%85%9A%E4%BA%BA%E6%96%87%E9%9B%86
+- https://no.wikipedia.org/wiki/Federalist_Papers
+- https://pl.wikipedia.org/wiki/Federalista
+- https://simple.wikipedia.org/wiki/Federalist_Papers
+- https://sv.wikipedia.org/wiki/Federalist_Papers
+- https://is.wikipedia.org/wiki/Federalist_Papers
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D8%B3%D8%AA
+- https://nl.wikipedia.org/wiki/Federalist_Papers
+- https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D9%85%DB%95%DA%B5%DB%95_%D9%88%D8%AA%D8%A7%D8%B1%DB%8C_%D9%81%DB%8E%D8%AF%DA%95%D8%A7%D9%84%DB%8C%D8%B3%D8%AA
+- https://cs.wikipedia.org/wiki/Listy_federalist%C5%AF
+- https://de.wikipedia.org/wiki/Federalist_Papers
+- https://en.wikiquote.org/wiki/The_Federalist
+- https://bg.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8A%D1%82
+- https://it.wikipedia.org/wiki/Il_Federalista
+- https://la.wikipedia.org/wiki/The_Federalist
+- https://ca.wikipedia.org/wiki/El_Federalista
+- https://tr.wikipedia.org/wiki/Federalist_Yaz%C4%B1lar
+- https://he.wikipedia.org/wiki/%D7%9B%D7%AA%D7%91%D7%99_%D7%94%D7%A4%D7%93%D7%A8%D7%9C%D7%99%D7%A1%D7%98
